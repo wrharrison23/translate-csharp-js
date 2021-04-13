@@ -2,7 +2,7 @@
 
 This repository contains a collection of C# and JavaScript programs. Each program creates some data, performs some logic and prints results to the console.
 
-C# programs are executed in the terminal using the `dotnet run` command. JavaScript programs are served with a web server _(e.g. `http-server` or `serve`)_ and executed in the browser.
+C# programs are executed in the terminal using the `dotnet run` command. JavaScript programs are served with a web server and executed in the browser.
 
 ## Your Task
 
